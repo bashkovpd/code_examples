@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-and-data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frequancyCounter.js",
+  "scripts": {
+    "singlyLinkedList": "nodemon src/dataStructures/SinglyLinkedList.ts --ext ts --exec ts-node",
+    "doublyLinkedList": "nodemon src/dataStructures/DoublyLinkedList.ts --ext ts --exec ts-node",
+    "bst": "nodemon src/dataStructures/BinarySearchTree.ts --ext ts --exec ts-node",
+    "bubbleSort": "nodemon --inspect src/bubbleSort.ts",
+    "md": "nodemon src/md.ts --ext ts --exec ts-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

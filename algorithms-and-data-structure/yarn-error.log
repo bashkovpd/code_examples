@@ -1,0 +1,42 @@
+Arguments: 
+  /usr/local/bin/node /Users/bashkovpd/.yarn/bin/yarn.js add ts-node
+
+PATH: 
+  /Users/bashkovpd/.yarn/bin:/Users/bashkovpd/.config/yarn/global/node_modules/.bin:/Users/bashkovpd/.composer/vendor/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/bashkovpd/.yarn/bin:/Users/bashkovpd/.config/yarn/global/node_modules/.bin:/Users/bashkovpd/.composer/vendor/bin://flutter/bin:/bin:/Users/bashkovpd/Desktop/_projects/algorithms-and-data-structure/flutter/bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.9.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/bashkovpd/Desktop/_projects/algorithms-and-data-structure/package.json: Unexpected token } in JSON at position 163
+      at JSON.parse (<anonymous>)
+      at /Users/bashkovpd/.yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/bashkovpd/.yarn/lib/cli.js:304:30)
+      at /Users/bashkovpd/.yarn/lib/cli.js:315:13
+
+npm manifest: 
+  {
+    "name": "algorithms-and-data-structure",
+    "version": "1.0.0",
+    "description": "",
+    "main": "frequancyCounter.js",
+    "scripts": {
+  		"tsc singlyLinkedList"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
