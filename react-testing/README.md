@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React project template with configured testing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created as a React template with configured static analytis tools like prettier, eslint, typescirpt and configured testing environment for components with few examples.
+
+**Working time spent: 8 hours**
+
+#
 
 ## Available Scripts
 

@@ -1,4 +1,10 @@
-# Welcome to Remix!
+# Testing remix framework functionality
+
+Project was implemented to test basic remix functionality and decide if it ready for latest use for development in the team.
+
+**Working time spent: 5 hours**
+
+#
 
 - [Remix Docs](https://remix.run/docs)
 
